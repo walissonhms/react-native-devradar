@@ -9,5 +9,5 @@ Como usar o projeto:
     <li>entre na pasta do projeto</li>
     <li>digite <code>yarn ou npm</code> para instalar as dependências necessárias para rodar o projeto</li>
     <li>digite <code>yarn start</code> para iniciar o projeto</li>
-    <li>digite <code>yarn dev</code></li>
+    <li>digite <code>yarn dev</code> para iniciar o nodemon</li>
 </ul>
