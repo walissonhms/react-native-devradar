@@ -9,12 +9,6 @@ import './Main.css';
 import DevForm from './components/DevForm';
 import DevItem from './components/DevItem';
 
-/**
- * Componentes: Bloco isolado de HTML, CSS, e JS, o qual não interfere no restante da aplicação function App(){return();};
- * Propriedades: Informações que um componente PAI passa para o componente FILHO;
- * Estado: Informações mantida pelo componente (Lembrar: imutabilidade);
- */
-
 export default function App() {
   const [devs, setDevs] = useState([]);
   const [load, setLoad] = useState(true);
